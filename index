@@ -34,7 +34,7 @@
       </style>
   </head>
   <body>
-    <h3>Welcome to the Oholei Torah HR Portal! Please sign in using your Google email address</h3>
+    <h3>Welcome! Please sign in using your Google email address</h3>
     <div id="g_id_onload"
       data-client_id="221716137442-cf2t6f4jk9h0p4bo69ppm8ufm51nuad4"
       data-login_uri="https://chedermla.github.io/"
